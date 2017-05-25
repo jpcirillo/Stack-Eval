@@ -1,8 +1,5 @@
 //Just for the record, this Java Project is called "CyaLater_Evaluator"
-//Micah Rubin and Joe Cirillo
-//COSC 201
-//11/14/15
-//Assignment #2 - Expression Evaluator 
+
 
 import java.util.ArrayList;
 import java.util.HashMap;
